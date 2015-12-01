@@ -1,5 +1,4 @@
-# 用Rxjava实现代码家和他的男女闺蜜
-扔物线[给Android开发者的RxJava详解](http://gank.io/post/560e15be2dca930e00da1083)文章中的例子
+# JakeWharton scalpe　布局层次结构　三维效果　展示
 
 ###说明
 [JakeWharton](https://github.com/JakeWharton/)的项目[scalpe](lhttps://github.com/JakeWharton/scalpel)因为不知道是什么原因编译失败，我就将该项目重新整理了一下 .<br/>
