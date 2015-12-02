@@ -15,7 +15,6 @@
 
 # files for the dex VM
 *.dex
-*.iml
 
 # Java class files
 *.class
@@ -27,6 +26,8 @@ gen/
 *build/
 .gradle/
 .idea/
+local.properties
+JakeWharton-Scalpel-Sample.iml
 gen-external-apklibs/
 
 # Eclipse project files
