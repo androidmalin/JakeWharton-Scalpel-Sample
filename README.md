@@ -12,6 +12,9 @@ JakeWharton的酷炫实用的解剖刀Scalpe,可以查看界面布局层次三�
 ###APK下载
 [APK下载链接](http://fir.im/JakeWhartonScalpel)
 
+[二维码下载]
+
+<div><img src='https://github.com/androidmalin/JakeWharton-Scalpel-Sample/blob/master/qrcode/download_qr_code.png' width="300px" style='border: #f1f1f1 solid 1px'/></div>
 
 ### 参考的文章
 [汤涛 Scalpel: Jake大神的第三把刀](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=400871360&idx=1&sn=ed438babc92bcca912f0f097f46fcf70&scene=1&srcid=1201fX7dBmzWopPQwaue5OKg&from=groupmessage&isappinstalled=0#wechat_redirect)
