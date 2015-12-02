@@ -1,10 +1,16 @@
 # JakeWharton scalpe　布局层次结构　三维效果　展示
 
 ###说明
-[JakeWharton](https://github.com/JakeWharton/)的项目[scalpe](https://github.com/JakeWharton/scalpel)因为不知道是什么原因编译失败，我就将该项目重新整理了一下 .<br/>
+JakeWharton的酷炫实用的解剖刀Scalpe,可以查看界面布局层次三维效果.
+[JakeWharton](https://github.com/JakeWharton/)的项目[scalpe](https://github.com/JakeWharton/scalpel)因为不知道是什么原因总是编译失败，我就新建立了一个工程，将源码拷贝进来，修改了Gradle版本和依赖的版本 .<br/>
+
+
 
 ### 链接
 [scalpe](https://github.com/JakeWharton/scalpel)
+
+###APK下载
+[APK下载链接](http://fir.im/JakeWhartonScalpel)
 
 
 ### 参考的文章
