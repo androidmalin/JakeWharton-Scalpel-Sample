@@ -20,7 +20,7 @@ JakeWharton的酷炫实用的解剖刀Scalpe,可以查看界面布局层次三�
 
 ### 欢迎大家关注 Android程序员公众号
 这里有Android开发的最佳实践
-
+[汤涛 Scalpel: Jake大神的第三把刀](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=400871360&idx=1&sn=ed438babc92bcca912f0f097f46fcf70&scene=1&srcid=1201fX7dBmzWopPQwaue5OKg&from=groupmessage&isappinstalled=0#wechat_redirect)这篇优秀的文章，就出自这里
 <div><img src='https://github.com/androidmalin/JakeWharton-Scalpel-Sample/blob/master/qrcode/weixin_android.jpg' width="300px" style='border: #f1f1f1 solid 1px'/></div>
 
 
